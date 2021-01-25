@@ -4,3 +4,6 @@ growth mindset refers to pepole who belive that they can develop thier skills an
 1. you must know that you can get better by work harder.
 1. you must know the sucess way need time .
 1. you must dont give up and dont stop trying.
+
+*My name is Duha Alazzam and this is the link to my github profile*
+[Duha Alazzam github profile](https://github.com/duhaalazzam)
