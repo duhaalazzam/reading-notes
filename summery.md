@@ -15,6 +15,7 @@ github pages is a place where you can share what you want with the world, you do
     2. press save,an url will appear,this is the url for your github page.
 2. if you want another page,just add new file and make its extension .md
    1. the url of this page will be the main url/fileName
+   
 ## GitHub Markdown Syntax
 in this *link* there is some *github markdown syntax* like how to make
 1. heading
