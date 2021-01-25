@@ -14,8 +14,8 @@ Files in Git can reside in three main states: committed, modified and staged.
 #### Getting Started with Git
 1. Download Git
 2. Initial Customization
-  1. Configuration of Variables
-  2. Identity Setting
+    1. Configuration of Variables
+    2. Identity Setting
 3. Default Text Editor
 4. Check Settings
 #### Setting up a Git Repository
