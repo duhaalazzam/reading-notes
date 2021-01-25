@@ -11,6 +11,8 @@ Every single change applied to any file or directory is tracked by Git.
 4. minimize lose of data.
 ### Git Files
 Files in Git can reside in three main states: committed, modified and staged.
+
+
 ### Getting Started with Git
 1. Download Git
 2. Initial Customization
