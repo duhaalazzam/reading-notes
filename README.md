@@ -3,8 +3,8 @@ growth mindset refers to pepole who belive that they can develop thier skills an
 
 | growth      | fixed       |
 | ----------- | -----------: |
-| Failure is an opportunity to grow      | Failure is the limit of my abilities      |
-| Can learn to do anything they want  | My abilities are unchanging        |
+| Failure is an opportunity to grow   | Failure is the limit of my abilities |
+| Can learn to do anything they want  | My abilities are unchanging  |
 
 ### reminders to yourself of how to keep yourself in a growth mindset
 1. you must know that you can get better by work harder.
