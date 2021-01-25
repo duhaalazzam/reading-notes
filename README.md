@@ -2,7 +2,7 @@
 growth mindset refers to pepole who belive that they can develop thier skills and get better if they work hard,vs fixed mindset who belives that skills are innate gifts and they cant get it by work hard.
 
 | growth                              | fixed                                |
-| ------------------------------------| ------------------------------------:|
+| :----------------------------------:| :-----------------------------------:|
 | Failure is an opportunity to grow   | Failure is the limit of my abilities |
 | Can learn to do anything they want  | My abilities are unchanging          |
 
