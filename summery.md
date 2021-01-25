@@ -10,6 +10,7 @@ You control the display of the document.
 github pages is a place where you can share what you want with the world, you dont need to know html.
  
    the steps to make github page
+   
 1. make repository,the readme.md will be your main page.
     1. go the settings to source and make it main 
     2. press save,an url will appear,this is the url for your github page.
