@@ -19,9 +19,11 @@ Files in Git can reside in three main states: committed, modified and staged.
 3. Default Text Editor
 4. Check Settings
 
+
 ### Setting up a Git Repository
 * Importing
 * Cloning
+
 
 ### Workflow
 * Local Repository Structure <br />
