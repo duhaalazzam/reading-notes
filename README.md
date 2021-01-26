@@ -15,7 +15,7 @@ This is alink to GitHub Summery page.
 [GitHub Summery page](https://duhaalazzam.github.io/reading-notes/summery)
 
 <a name="Git"></a>
-## 2. Git
+## 3. Git
 
 This is alink to Git page.
 [Git page](https://duhaalazzam.github.io/reading-notes/git)
