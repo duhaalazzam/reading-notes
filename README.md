@@ -1,17 +1,21 @@
-# growth mindset
-growth mindset refers to pepole who belive that they can develop thier skills and get better if they work hard,vs fixed mindset who belives that skills are innate gifts and they cant get it by work hard.
+1. [ Introduction. ](#intro)
+2. [ GitHub. ](#GitHub)
+3. [ Git. ](#Git)
 
-| growth                              | fixed                                |
-| :----------------------------------:| :-----------------------------------:|
-| Failure is an opportunity to grow   | Failure is the limit of my abilities |
-| Can learn to do anything they want  | My abilities are unchanging          |
+<a name="intro"></a>
+## 1. Introduction
 
-### reminders to yourself of how to keep yourself in a growth mindset
-1. you must know that you can get better by work harder.
-1. you must know the sucess way need time .
-1. you must dont give up and dont stop trying.
+This is 102 course: Introduction to software development.
+we will discuss about GitHub and Git.
 
-*My name is Duha Alazzam and this is the link to my github profile*
-[Duha Alazzam github profile](https://github.com/duhaalazzam)
+<a name="GitHub"></a>
+## 2. GitHub 
 
-![growth vs fixed mindset](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
+This is alink to GitHub Summery page.
+[GitHub Summery page](https://duhaalazzam.github.io/reading-notes/summery)
+
+<a name="Git"></a>
+## 2. Git
+
+This is alink to Git page.
+[Git page](https://duhaalazzam.github.io/reading-notes/git)
