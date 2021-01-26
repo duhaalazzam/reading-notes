@@ -15,3 +15,5 @@ growth mindset refers to pepole who belive that they can develop thier skills an
 *My name is Duha Alazzam and this is the link to my github profile*
 [Duha Alazzam github profile](https://github.com/duhaalazzam)
 ![growth vs fixed mindset](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
+
+[Go To The Main Page](https://duhaalazzam.github.io/reading-notes/)
