@@ -45,3 +45,6 @@ All files are either in a **tracked** or **untracked** state.
 * Committing All Changes
 * Pushing Changes
 * Stashing Changes
+
+
+[Go To The Main Page](https://duhaalazzam.github.io/reading-notes/)
