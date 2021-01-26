@@ -24,3 +24,6 @@ in this *link* there is some *github markdown syntax* like how to make
 3. links
 4. lists
 5. more
+
+
+[Go To The Main Page](https://duhaalazzam.github.io/reading-notes/)
