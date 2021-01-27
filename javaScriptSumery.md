@@ -10,6 +10,7 @@ solve the task prggrammatically.
 * To approach writing a script, break down your goal into
 a series of tasks and then work out each step needed
 to complete that task (a flowchart can help).
+
 ## Expressions + Operators
 * An expression evaluates into (results in) a single value.
 there are two types of expressions. 
@@ -17,8 +18,7 @@ there are two types of expressions.
 VALUE TO A VARIABLE.
   var color = 'beige'; 
 2. EXPRESSIONS THAT USE TWO OR
-MORE VALUES TO RETURN A
-SINGLE VALUE.
+MORE VALUES TO RETURN A SINGLE VALUE.
 var area = 3 * 2;
 * Expressions rely on things called operators; they allow programmers to
 create a single value from one or more values. Such as:
@@ -26,8 +26,8 @@ create a single value from one or more values. Such as:
 Assign a value to a variable 
 color = 'beige'; 
 2. ARITHMETIC OPERATORS
-Perform basic math 
-area = 3 * 2;
+ Perform basic math 
+  area = 3 * 2;
 3. STRING OPERATORS
 Combine two strings
 greeting= 'Hi 1 + 'Mol ly';
