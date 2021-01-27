@@ -21,7 +21,7 @@
 
    ## Chapter1: Structure Summery
 
-      *  HTML pages are text documents.
+    * HTML pages are text documents.
     
    * HTML uses tags (characters that sit inside angled
 brackets) to give the information they surround special
