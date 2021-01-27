@@ -18,8 +18,8 @@
 
     * You can use grouping and similarity to help simplify
     the information you present.
-
-   ##  Chapter1: Structure Summery
+    
+## Chapter1: Structure Summery
 
     * HTML pages are text documents.
     
@@ -42,7 +42,7 @@ about the content of that element.
 available for you to use, what they do, and where they
 can go.
 
-   ##  Chapter17: HTML5 Layout
+## Chapter17: HTML5 Layout
   *   The new HTML5 elements indicate the purpose of
     different parts of a web page and help to describe
     its structure.
@@ -57,8 +57,8 @@ can go.
   *  To make HTML5 elements work in Internet Explorer 8
     (and older versions of IE), extra JavaScript is needed,
     which is available free from Google.
-
- ##  Chapter8: Extra Markup
+    
+## Chapter8: Extra Markup
 
 * DOCTYPES tell browsers which version of HTML you
 are using.
