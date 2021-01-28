@@ -36,7 +36,7 @@
     var i=0;
     while(i<10)
     {
-     //write your code here
+     //write your code here;
      i++
     }
     
