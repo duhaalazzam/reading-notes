@@ -13,7 +13,7 @@
   ### Logical Operators
   * logical operators allow you to compare the result of more than comparsion operator.examples
    1. logical and &&,returns true if all conditions is true.
-   2. logical or||,returns true if one of the condition is true.
+   2. logical or||,returns true if one of the conditions is true.
    3. logical not !,it reverse the sate of condition.
    
   ### Loops
