@@ -25,7 +25,9 @@ several properties in one declaration, each separated by a semi-colon.
  4. ID Selector
  
  ##  chapter 11: color
- 1. rgb values: These express colors in terms of how much red, green and blue are used to make it up.
- 2. hex codes: These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign.
- 3. color names: There are 147 predefined color names that are recognized by browsers.
+ * You can specify any color in CSS in one of three ways:
+    1. rgb values: These express colors in terms of how much red, green and blue are used to make it up.
+    2. hex codes: These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign.
+    3. color names: There are 147 predefined color names that are recognized by browsers.
+ * background-color: CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box.
  * CSS3 also allows you to specify colors as HSL values, with an optional opacity value.
