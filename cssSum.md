@@ -23,6 +23,7 @@ several properties in one declaration, each separated by a semi-colon.
  2. Type Selector
  3. Class Selector
  4. ID Selector
+ 
  ## chapter 11: color
  1. rgb values: These express colors in terms of how much red, green and blue are used to make it up.
  2. hex codes: These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign.
