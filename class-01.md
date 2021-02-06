@@ -46,5 +46,21 @@
    * Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
    * You can differentiate between pieces of information using size, color, and style.
    * You can use grouping and similarity to help simplify the information you present.
-  
-  
+   # Duckett JS book
+   ## Introduction
+   * This book explains how JavaScript can be used in browsers to make websites more interactive, interesting, and user-friendly. You will also learn about jQuery because it          makes writing JavaScript a lot easier.
+   * javaScript allow you
+       1. ACCESS CONTENT
+       2. MODIFY CONTENT
+       3. PROGRAM RULES
+       4. REACT TO EVENTS
+   ## chapter1: The ABC The ABC of Programming
+   * A script is a series of instructions that the computer can follow in order to achieve a goal.
+   * To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+   * COMPUTERS CREATE MODELS OF THE WORLD USING DATA
+   * OBJECTS & PROPERTIES If you could not see the picture of the hotel and cars, the data in the information boxes alone would still tell you a lot about this scene.
+   * EVENTS In the real world, people interact with objects. These interactions can change the values of the properties in these objects.
+   * METHODS Methods represent things people need to do with objects. They can retrieve or update the values of an object's properties.
+   * It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . js extension.
+   * The HTML `<script>` element is used in HTML pages to tell the browser to load the JavaScript file (rather like the `<link>` element can be used to load a CSS file).
+       
