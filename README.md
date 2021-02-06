@@ -15,4 +15,4 @@ This website include two sections:
 1. [code 201 reading-notes](https://duhaalazzam.github.io/reading-notes/class-01)
 
 
-!(https://dashboard.madaresonajo.com/images/Luminus%20Technical%20University%20College/1595913289.png)
+![](https://dashboard.madaresonajo.com/images/Luminus%20Technical%20University%20College/1595913289.png)
