@@ -40,7 +40,9 @@
    # chapter18:Process & Design
    * It's important to understand w XX ho your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
    * Site maps allow you to plan the structure of a site.
+    ![](https://i.pinimg.com/originals/1c/c5/f4/1cc5f4ec000969f11eedf4dbe0f8c9d8.png)
    * Wireframes allow you to organize the information that will need to go on each page.
+    ![](https://www.freepik.com/blog/app/uploads/2019/05/how-use-wireframes-web-design-Cover-post-100.jpg)
    * Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
    * You can differentiate between pieces of information using size, color, and style.
    * You can use grouping and similarity to help simplify the information you present.
