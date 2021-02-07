@@ -13,23 +13,23 @@ This website include two sections:
 3. [ Git. ](https://duhaalazzam.github.io/reading-notes/git)
 ### code 201:Foundations of sofware development
 1. [code 201 reading-notes](https://duhaalazzam.github.io/reading-notes/class-01)
-| number     | reading-notes |
-| ----------- | ----------- |
-| 1  |  [class1 reading-notes](https://duhaalazzam.github.io/reading-notes/class-01)   |
-| 2  |     |
-| 3  |     |
-| 4  |     |
-| 5  |     |
-| 6  |     |
-| 7  |     |
-| 8  |     |
-| 9  |     |
-| 10 |     |
-| 11 |     |
-| 12 |     |
-| 13 |     |
-| 14 |     |
-| 15 |     |
+| number     | reading-notes|
+| -----------| ------------ |
+| 1          |  [class1 reading-notes](https://duhaalazzam.github.io/reading-notes/class-01)   |
+| 2          |                                                                                 |
+| 3          |                                                                                 |
+| 4          |                                                                                 |
+| 5          |                                                                                 |
+| 6          |                                                                                 |
+| 7          |                                                                                 |
+| 8          |                                                                                 |
+| 9          |                                                                                 |
+| 10         |                                                                                 |
+| 11         |                                                                                 |
+| 12         |                                                                                 |
+| 13         |                                                                                 |
+| 14         |                                                                                 |
+| 15         |                                                                                 |
 
 
 ![](https://dashboard.madaresonajo.com/images/Luminus%20Technical%20University%20College/1595913289.png)
