@@ -3,6 +3,7 @@
 ## Chapter 5: “Images” 
 * The `<img>` element is used to add images to a
 web page.
+![](https://www.miltonmarketing.com/wp-content/uploads/2018/03/mmhtmlimgtag424243image-tag-example.jpg)
 * You must always specify a src attribute to indicate the
 source of an image and an alt attribute to describe the
 content of an image.
