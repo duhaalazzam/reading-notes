@@ -16,6 +16,7 @@ logos that use flat colors are better saved as GIFs.
 convey the mood and evokes reactions.
 * There are three ways to specify colors in CSS:
 RGB values, hex codes, and color names.
+![](https://i1.wp.com/www.techora.net/wp-content/uploads/2016/04/html-css-color-code-scheme-chart.png?fit=557%2C264&ssl=1)
 * Color pickers can help you find the color you want.
 * It is important to ensure that there is enough contrast
 between any text and the background color (otherwise
