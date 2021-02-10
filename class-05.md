@@ -25,6 +25,7 @@ people will not be able to read your content).
 indicate opacity. It is known as RGBA.
 * CSS3 also allows you to specify colors as HSL values,
 with an optional opacity value. It is known as HSLA.
+![](https://purple11.com/static/fed42130c194b0c240a4ec10408adf97/8282f/hsl-cover-2.png)
 ## Chapter 12: “Text”
 * There are properties to control the choice of font, size,
 weight, style, and spacing.
