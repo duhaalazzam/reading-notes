@@ -48,7 +48,7 @@ property in CSS. You can also float elements using the float property.
  1. Normal flow         2. Relative Positioning           3. Absolute positioning
  ![](imgs3/Capture3.PNG)
 
- 4. Fixed Positioning     5. Floating Elements
+ 4.Fixed Positioning     5. Floating Elements
  ![](imgs3/Capture4.PNG)
 
  ## Chapter 3: “Functions, Methods, and Objects”
