@@ -11,7 +11,7 @@ them on the web page and in the appropriate format.
 * Photographs are best saved as JPEGs; illustrations or
 logos that use flat colors are better saved as GIFs.
 ## Chapter 11: “Color”
-* Color not only brings your s XX ite to life, but also helps
+* Color not only brings your site to life, but also helps
 convey the mood and evokes reactions.
 * There are three ways to specify colors in CSS:
 RGB values, hex codes, and color names.
