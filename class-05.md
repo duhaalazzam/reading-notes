@@ -1,7 +1,7 @@
 # Readings : Images, Color, Text
 ## Duckett HTML book
 ## Chapter 5: “Images” 
-* The <img> element is used to add images to a
+* The `<img>` element is used to add images to a
 web page.
 * You must always specify a src attribute to indicate the
 source of an image and an alt attribute to describe the
@@ -24,7 +24,7 @@ indicate opacity. It is known as RGBA.
 * CSS3 also allows you to specify colors as HSL values,
 with an optional opacity value. It is known as HSLA.
 ## Chapter 12: “Text”
-* There are properties to control t XX he choice of font, size,
+* There are properties to control the choice of font, size,
 weight, style, and spacing.
 * There is a limited choice of fonts that you can assume
 most people will have installed.
