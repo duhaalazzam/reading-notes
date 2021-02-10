@@ -28,7 +28,7 @@ with an optional opacity value. It is known as HSLA.
 ## Chapter 12: “Text”
 * There are properties to control the choice of font, size,
 weight, style, and spacing.
-![](https://i1.wp.com/www.tutorialbrain.com/wp-content/uploads/2019/03/CSS-Font-Property_tutorialbrain.png?fit=800%2C800&ssl=1)
+![](hhttps://imgv2-2-f.scribdassets.com/img/document/339506399/original/a6f61c9488/1598245355?v=1)
 * There is a limited choice of fonts that you can assume
 most people will have installed.
 * If you want to use a wider range of typefaces there are
