@@ -48,4 +48,5 @@ It refers to object that it define inside.
 2. THE DOCUMENT OBJECT MODEL: THE DOCUMENT OBJECT
 ![](imgs5/Capture9.PNG)
 3. GLOBAL OBJECTS
+
 ![](imgs5/Capture10.PNG)
