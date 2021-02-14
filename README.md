@@ -21,7 +21,7 @@ This website include two sections:
 | 4          |  [class4](https://duhaalazzam.github.io/reading-notes/class-04)                 |  
 | 5          |  [class5](https://duhaalazzam.github.io/reading-notes/class-05)                 |                                                            
 | 6          |  [class6](https://duhaalazzam.github.io/reading-notes/class-06)                 |                                                              
-| 7          |                                                                                 |
+| 7          |  [class7](https://duhaalazzam.github.io/reading-notes/class-07)                 |                                                            
 | 8          |                                                                                 |
 | 9          |                                                                                 |
 | 10         |                                                                                 |
