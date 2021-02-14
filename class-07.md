@@ -17,11 +17,15 @@
 page.
 * A table is drawn out row by row. Each row is created
 with the `<tr>` element.
+
 ![](imgs5/Capture1.PNG)
+
 * Inside each row there are a number of cells
 represented by the `<td>` element (or `<th>` if it is a
 header).
+
 ![](imgs5/Capture2.PNG)
+
 * You can make cells of a table span more than one row
 or column using the rowspan and colspan attributes.
 * For long tables you can split the table into a `<thead>`,
