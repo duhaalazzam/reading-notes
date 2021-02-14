@@ -46,9 +46,11 @@ It refers to object that it define inside.
 1. THE BROWSER OBJECT MODEL:THE WINDOW OBJECT
 
 ![](imgs5/Capture8.PNG)
+
 2. THE DOCUMENT OBJECT MODEL: THE DOCUMENT OBJECT
 
 ![](imgs5/Capture9.PNG)
+
 3. GLOBAL OBJECTS
 
 ![](imgs5/Capture10.PNG)
