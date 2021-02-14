@@ -30,8 +30,10 @@ header).
 or column using the rowspan and colspan attributes.
 * For long tables you can split the table into a `<thead>`,
 `<tbody>`, and `<tfoot>`.
+
 ## Duckett JS Book
 ## Chapter 3: “Functions, Methods, and Objects”
+
 * Creating an object using constructor notation.
 The **new** keyword and the object constructor create a blank object.
 
