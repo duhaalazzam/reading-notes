@@ -17,35 +17,55 @@
 page.
 * A table is drawn out row by row. Each row is created
 with the `<tr>` element.
+
 ![](imgs5/Capture1.PNG)
+
 * Inside each row there are a number of cells
 represented by the `<td>` element (or `<th>` if it is a
 header).
+
 ![](imgs5/Capture2.PNG)
+
 * You can make cells of a table span more than one row
 or column using the rowspan and colspan attributes.
 * For long tables you can split the table into a `<thead>`,
 `<tbody>`, and `<tfoot>`.
+
 ## Duckett JS Book
 ## Chapter 3: “Functions, Methods, and Objects”
+
 * Creating an object using constructor notation.
 The **new** keyword and the object constructor create a blank object.
 
  ![](imgs5/Capture3.PNG)
+ 
  * Updating an object
  to update the of proprties of an object we use dot notation or sequare brackets.
+ 
  ![](imgs5/Capture4.PNG)
 ![](imgs5/Capture5.PNG)
+
 * Object constructors can use a function as a template for creating objects.
+
 ![](imgs5/Capture6.PNG)
+
 * And then to create objects we use **new** key word followed by call instuctor function and pass the values of properties as argument.
+
 ![](imgs5/Capture7.PNG)
-* THIS (IT IS A KEYWORD)
+
+* **THIS**  IS A KEYWORD
 It refers to object that it define inside.
-* there are three types of built-in object
+
+* there are three types of built-in object:
+
 1. THE BROWSER OBJECT MODEL:THE WINDOW OBJECT
+
 ![](imgs5/Capture8.PNG)
+
 2. THE DOCUMENT OBJECT MODEL: THE DOCUMENT OBJECT
+
 ![](imgs5/Capture9.PNG)
+
 3. GLOBAL OBJECTS
+
 ![](imgs5/Capture10.PNG)
