@@ -58,4 +58,8 @@ the size of their browser window.Measurements tend to be given in pixels.
 Liquid layout designs stretch and contract as the user increases
 or decreases the size of their browser window. They tend to use percentages.
 
+* Multiple Style Sheets
+1. @import
+2. link
+
 
