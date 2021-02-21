@@ -23,13 +23,14 @@ The `<canvas>` element has a method called getContext(), used to obtain the rend
 1. fillRect(x, y, width, height)
 Draws a filled rectangle.
 2. strokeRect(x, y, width, height)
-* Draws a rectangular outline.
-* beginPath()
+Draws a rectangular outline.
+* Path::
+beginPath()
 Creates a new path
-* Moving the pen
+* Moving the pen::
 moveTo(x, y)
 Moves the pen to the coordinates specified by x and y.
-* Lines
+* Lines::
 lineTo(x, y)
 Draws a line from the current drawing position to the position specified by x and y.
 * Colors
