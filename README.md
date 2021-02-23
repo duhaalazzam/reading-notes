@@ -28,8 +28,8 @@ This website include two sections:
 | 11         |  [class11](https://duhaalazzam.github.io/reading-notes/class-11)                |                                                              
 | 12         |  [class12](https://duhaalazzam.github.io/reading-notes/class-12)                |                                                            
 | 13         |  [class13](https://duhaalazzam.github.io/reading-notes/class-13)                |                                                           
-| 14         |                                                                                 |
+| 14a        |  [class14a](https://duhaalazzam.github.io/reading-notes/class-14a)              |                                                               
+| 14b        |  [class14b](https://duhaalazzam.github.io/reading-notes/class-14b)              |                                                                
 | 15         |                                                                                 |
-
 
 ![](https://dashboard.madaresonajo.com/images/Luminus%20Technical%20University%20College/1595913289.png)
