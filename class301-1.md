@@ -10,8 +10,7 @@ The flexible layout approach alone isn’t enough.media queries can be used to h
 `<div class="container">
   <section>...</section>
   <aside>...</aside>
-</div>
-`
+</div>`
 **css for fixed grid demo** 
 `.container {
   width: 538px;
