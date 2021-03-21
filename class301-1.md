@@ -86,8 +86,8 @@ Clear has four valid values as well. Both is most commonly used, which clears fl
 **css**
 `[class*='col-'] {
   float: left;
-}`
-`.col-2-3 {
+}
+.col-2-3 {
   width: 66.66%;
 }
 .col-1-3 {
