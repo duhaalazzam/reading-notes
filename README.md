@@ -34,6 +34,10 @@ This website include four sections:
 | 15         |                                                                                 |
 
 ## Code 301 - Intermediate Software Development
+
+| number     | reading-notes                                                                   |
+| -----------| -------------------------------------------------------------------------------:|
+| 1          |  [class1](https://duhaalazzam.github.io/reading-notes/class301-1)               |
 ## Code 401 - Advanced Software Development
 
 ![](https://dashboard.madaresonajo.com/images/Luminus%20Technical%20University%20College/1595913289.png)
