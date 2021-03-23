@@ -38,7 +38,7 @@ This website include four sections:
 | number     | reading-notes                                                                   |
 | -----------| -------------------------------------------------------------------------------:|
 | 1          |  [class1](https://duhaalazzam.github.io/reading-notes/class301-1)               |
-| 3          |  [class3](https://duhaalazzam.github.io/reading-notes/read3-301)                |
+| 3          |  [class3](https://duhaalazzam.github.io/reading-notes/read03-301)               |
 ## Code 401 - Advanced Software Development
 
 ![](https://dashboard.madaresonajo.com/images/Luminus%20Technical%20University%20College/1595913289.png)
