@@ -44,7 +44,6 @@ This website include four sections:
 | 5          |  [class5](https://duhaalazzam.github.io/reading-notes/read5-301)                |
 | 8          |  [class8](https://duhaalazzam.github.io/reading-notes/read8-301)                |
 | 9          |  [class9](https://duhaalazzam.github.io/reading-notes/read9-301)                |
-| 9          |  [class9](https://duhaalazzam.github.io/reading-notes/read9-301)                |
 | 10         |  [class10](https://duhaalazzam.github.io/reading-notes/read10-301)              |
 | 11         |  [class11](https://duhaalazzam.github.io/reading-notes/read11-301)              |
 | 12         |  [class12](https://duhaalazzam.github.io/reading-notes/read12-301)              |
