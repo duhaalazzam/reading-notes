@@ -43,6 +43,7 @@ This website include four sections:
 | 4          |  [class4](https://duhaalazzam.github.io/reading-notes/read4-301)                |
 | 5          |  [class5](https://duhaalazzam.github.io/reading-notes/read5-301)                |
 | 6          |  [class6](https://duhaalazzam.github.io/reading-notes/read6-301)                |
+| 10         |  [class10](https://duhaalazzam.github.io/reading-notes/read10-301)              |
 | 11         |  [class11](https://duhaalazzam.github.io/reading-notes/read11-301)              |
 | 12         |  [class12](https://duhaalazzam.github.io/reading-notes/read12-301)              |
 | 13         |  [class13](https://duhaalazzam.github.io/reading-notes/read13-301)              |
